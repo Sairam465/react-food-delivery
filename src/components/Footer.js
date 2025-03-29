@@ -5,28 +5,28 @@ import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 class Footer extends Component {
     render() {
         return (
-            // Complete Footer Section
+        
             <div className="container-fluid pt-5 bg-footer">
                 <div className="container mb-4">
                     <div className="row">
 
-                        {/* Popular Cities Section */}
+                        {}
                         <div className="col-lg-3 col-md-3 col-sm-12">
                             <div className="footer-head-div">
                                 <h5 className="text-white">Popular Cities</h5>
                             </div>
                             <div className="footer-list-div">
                                 <ul>
-                                    <li><a href="#">Karachi</a></li>
-                                    <li><a href="#">Lahore</a></li>
-                                    <li><a href="#">Islamabad</a></li>
+                                    <li><a href="#">Pune</a></li>
+                                    <li><a href="#">Mumbai</a></li>
+                                    <li><a href="#">Wakad</a></li>
                                     <li><a href="#">Rawalpindi</a></li>
                                     <li><a href="#">Multan</a></li>
                                 </ul>
                             </div>
                         </div>
 
-                        {/* Popular Cuisnies Section */}                        
+                        {}                        
                         <div className="col-lg-3 col-md-3 col-sm-12">
                             <div className="footer-head-div">
                                 <h5 className="text-white">Popular Cuisnies</h5>
@@ -43,7 +43,7 @@ class Footer extends Component {
                             </div>
                         </div>
 
-                        {/* Popular Cuisnies Section */}
+                        {}
                         <div className="col-lg-3 col-md-3 col-sm-12">
                             <div className="footer-head-div">
                                 <h5 className="text-white">Menu</h5>
@@ -58,7 +58,7 @@ class Footer extends Component {
                             </div>
                         </div>
                         
-                        {/* Contact Section */}                        
+                        {}                        
                         <div className="col-lg-3 col-md-3 col-sm-12">
                             <div className="footer-head-div">
                                 <h5 className="text-white">Connect</h5>
@@ -134,10 +134,10 @@ class Footer extends Component {
                     </div>
                 </div>
 
-                {/* Footer Copyright Section */}
+                {}
                 <div className="container">
                     <div className="col-12 footer-copyright">
-                        <p>© 2019 Quick Food. All Rights Reserved. Powered By <span style={{ color: "#eb6825", fontWeight: 700 }}>Fahad Ahmed</span></p>
+                        <p>© 2025 Quick Food. All Rights Reserved. Powered By <span style={{ color: "#eb6825", fontWeight: 700 }}>Basani Sai Ram</span></p>
                     </div>
                 </div>
             </div>
