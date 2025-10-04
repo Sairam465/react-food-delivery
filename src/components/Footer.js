@@ -20,8 +20,8 @@ class Footer extends Component {
                                     <li><a href="#">Pune</a></li>
                                     <li><a href="#">Mumbai</a></li>
                                     <li><a href="#">Wakad</a></li>
-                                    <li><a href="#">Rawalpindi</a></li>
-                                    <li><a href="#">Multan</a></li>
+                                    <li><a href="#">Solapur</a></li>
+                                    <li><a href="#">Hyderabad</a></li>
                                 </ul>
                             </div>
                         </div>
@@ -34,7 +34,7 @@ class Footer extends Component {
                             <div className="footer-list-div">
                                 <ul>
                                     <li><a href="#">Apple Juice</a></li>
-                                    <li><a href="#">BB.Q</a></li>
+                                    <li><a href="#">BBQ</a></li>
                                     <li><a href="#">Chicken Roast</a></li>
                                     <li><a href="#">Hot Dogs</a></li>
                                     <li><a href="#">Prawns</a></li>
@@ -137,7 +137,7 @@ class Footer extends Component {
                 {}
                 <div className="container">
                     <div className="col-12 footer-copyright">
-                        <p>© 2025 Quick Food. All Rights Reserved. Powered By <span style={{ color: "#eb6825", fontWeight: 700 }}>Basani Sai Ram</span></p>
+                        <p>© 2025 Quick Food. All Rights Reserved. Powered By <span style={{ color: "#eb6825", fontWeight: 700 }}>Sairam</span></p>
                     </div>
                 </div>
             </div>
